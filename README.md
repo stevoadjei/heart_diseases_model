@@ -36,6 +36,5 @@ This project involves using machine learning to predict the likelihood of heart 
    - Demonstrating model performance with a clear breakdown of true positives, false positives, etc.
 3. **ROC Curve:**
    - Showing the trade-off between true positive rate and false positive rate across different thresholds.
-4. **Feature Importance Plot (if applicable):**
-   - Highlighting the most significant predictors of heart disease.
+
 
