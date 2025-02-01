@@ -30,7 +30,6 @@ This project involves using machine learning to predict the likelihood of heart 
    - Achieved high classification accuracy and insights into model trade-offs using confusion matrices and ROC curves.
 
 ## Visualizations:
-To make your portfolio visually appealing, the following diagrams from your notebook would be ideal to showcase:
 1. **Correlation Heatmap:**
    - Displaying feature relationships, which is critical in understanding how attributes contribute to heart disease risk.
 2. **Confusion Matrix:**
